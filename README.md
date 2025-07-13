@@ -34,6 +34,9 @@ Or download the ZIP file and extract it.
 * Click the **"Load unpacked"** button.
 * Select the folder where the extension files (`manifest.json`, `content.js`, etc.) are located (from step 1).
 
+<img width="499" height="280" alt="Screenshot 2025-07-13 104908" src="https://github.com/user-attachments/assets/893626cf-ecbd-418c-9d59-3b9f140e5cd7" />
+
+
 ### 5. You're All Set!
 
 * Open Gmail in a new tab.
